@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="popupwindow_show_tip">"测试底部弹出的PopupWindow"</string>
+    <string name="action_email">"发送邮件"</string>
+    <string name="action_phone">"拨打电话"</string>
+</resources>
